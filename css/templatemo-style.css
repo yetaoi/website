@@ -145,6 +145,10 @@ button:focus { outline: none; }
 	margin-left: 7%;
 }
 
+.cd-hero-slider .tm-text:nth-child(6) span{
+	width: 155px;
+}
+
 .cd-hero-slider .tm-tt{
 	text-align: left;
 }
